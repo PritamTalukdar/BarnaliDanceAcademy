@@ -1,0 +1,18 @@
+.top-bar-container {
+    background-color: white;
+    height: 8em;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-bar-left-section {
+    margin-left: 2em;
+}
+.top-bar-right-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 2em;
+    width: 80vw;
+}

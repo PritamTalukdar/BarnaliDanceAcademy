@@ -1,0 +1,15 @@
+.course-card {
+    background: #343434;
+    box-shadow: 6px 6px 0px #C1985F;
+    width: 14em;
+    margin-right: 1em;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Overpass Mono';
+    font-style: normal;
+    font-size: 12px;
+    text-align: left;
+}
+.course-card img {
+    width: 100%;
+}

@@ -1,0 +1,12 @@
+.courses-tile {
+    padding: 1em;
+    text-align: left;
+}
+.courses-tile p {
+    margin: 2em;
+}
+.courses {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

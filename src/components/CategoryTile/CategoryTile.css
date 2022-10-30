@@ -1,0 +1,31 @@
+.category-tile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 8em;
+}
+.category-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.category-img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    filter: drop-shadow(6px 6px 0px #C1985F);
+    background-size: contain;
+}
+.enroll-btn {
+    width: 200px;
+    height: 40px;
+    background: #5F554C;
+    border-radius: 17px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}

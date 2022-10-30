@@ -1,0 +1,56 @@
+.heritage-tile {
+    background: #343434;
+    padding: 8em 4em;
+    margin-top: 4em;
+}
+.our-heritage {
+    display: flex;
+    padding: 2em;
+}
+.our-heritage-left {
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    margin-right: 4em;
+}
+.our-heritage-left img {
+    width: 200px;
+    height: 160px;
+}
+.our-heritage-right {
+    width: 50%;
+    text-align: left;
+}
+
+.our-history {
+    display: flex;
+    justify-content: center;
+}
+.our-history-left {
+    width: 50%;
+    text-align: right;
+}
+.our-history-right {
+    width: 50%;    
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-left: 4em;
+}
+.our-history-right img {
+    width: 200px;
+    height: 160px;
+}
+.upcoming-show-btn {
+    width: 50%;
+    height: 40px;
+    float: right;
+    background: #5F554C;
+    border-radius: 17px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
