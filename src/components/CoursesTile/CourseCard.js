@@ -2,7 +2,7 @@ import React from 'react';
 import './CourseCard.css';
 
 export default function CourseCard(props) {
-  const { id, url, title, description } = props.course;
+  const { url, title, description } = props.course;
   return (
     <div className='course-card'>
         <img src={require(`../../assets/${url}.png`)} alt={title} />
